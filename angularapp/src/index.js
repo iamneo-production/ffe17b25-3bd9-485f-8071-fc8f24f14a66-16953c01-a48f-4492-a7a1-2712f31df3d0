@@ -1,5 +1,4 @@
 console.log("hi")
 console.log("hi")
-consolelog("Wrld")
-
-
+console.log("Wrld")
+console.log("dhdfjdj")
