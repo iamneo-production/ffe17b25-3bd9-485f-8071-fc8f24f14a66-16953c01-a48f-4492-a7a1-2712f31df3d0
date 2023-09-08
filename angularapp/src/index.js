@@ -6,7 +6,3 @@ console.log("cdcff")
 console.log("cdcff")
 console.log("cdcff")
 
-
-
-
-
